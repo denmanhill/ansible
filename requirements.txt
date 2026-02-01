@@ -58,7 +58,7 @@ cached_path
 click
 datasets
 ema_pytorch>=0.5.2
-gradio>=5.0.0
+gradio==4.44.1
 hydra-core>=1.3.0
 librosa
 matplotlib
