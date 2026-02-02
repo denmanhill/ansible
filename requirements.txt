@@ -1,4 +1,4 @@
-coqui-tts==0.24.3
+coqui-tts
 openai-whisper
 f5-tts==1.1.6
 ffmpeg-python>=0.2.0
